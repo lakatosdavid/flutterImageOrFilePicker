@@ -1,0 +1,15 @@
+{
+  "image_upload_dialog_description": "Kérjük válasszon",
+  "image_upload_dialog_first_option": "Kép választása a galériából",
+  "image_upload_dialog_second_option": "Fénykép készítése",
+  "file_upload_dialog_second_option": "Fájl kiválasztása",
+  "image_upload_dialog_cancel_option": "Mégse",
+  "image_upload_max_file_size_error_title": "A kiválasztott fájl mérete meghaladja a maximális {maxFileSize} MB-ot.",
+
+  "app_need_permission_title_photos": "fényképeihez",
+  "app_need_permission_title_camera": "kamerájához",
+  "app_need_permission_title": "Az alkalmazás hozzá szeretne férni a {type}.",
+  "app_need_permissions_message": "Ennek az alkalmazásnak engedélyre van szüksége a funkció használatához. Az alkalmazás beállításaiban megadhatja őket.",
+  "go_to_settings_button_title": "Beállítások megnyitása",
+  "go_to_settings_button_cancel_title": "Most nem"
+}

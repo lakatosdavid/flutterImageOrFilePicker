@@ -55,3 +55,4 @@ app.*.map.json
 /lib/generated_code
 /lib/l10n/app_localizations.dart
 /lib/l10n/app_localizations_hu.dart
+/lib/l10n/gen/
