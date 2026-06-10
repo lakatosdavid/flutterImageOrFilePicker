@@ -12,7 +12,7 @@ class FilePickerUtils with SharedFunctions {
   FilePickerUtils(this.onError);
 
   Future<File?> pickSingleFile(FilePickerParams filePickerParams) async {
-    FilePickerResult? result = await FilePicker.platform.pickFiles(
+    FilePickerResult? result = await FilePicker.pickFiles(
       allowMultiple: filePickerParams.allowMultiple,
       type: filePickerParams.type,
       allowedExtensions: filePickerParams.allowedExtensions,

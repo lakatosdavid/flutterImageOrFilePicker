@@ -12,6 +12,13 @@ import 'file_picker_params.dart';
 import 'file_picker_utils.dart';
 import 'image_picker_utils.dart';
 
+/*
+// Fő widgetben vagy ahol először kell
+final manager = ImageFilePickerManager.init(context);
+
+// Később bárhol
+ImageFilePickerManager.instance.pickSomething();
+ */
 class ImageFilePickerManager {
   final BuildContext context;
 
